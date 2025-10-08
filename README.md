@@ -45,10 +45,9 @@ Aquí se documentan los avances, proyectos, assets utilizados, capturas, y resul
 Breve explicación de lo que se realizó en la práctica.
 
 **Evidencias:**  
-- 📸 **Capturas:** [Ver capturas](#)  
-- 📄 **PDF de evidencia:** [Ver documento](#)  
+- 📄 **PDF de evidencia:** [Ver documento](./Practicas/Practica02/practica02.pdf)  
+- 🧰 **Assets utilizados:** [Ver assets](./Practicas/Practica02/assets/practica 02.unitypackage) 
 - 🎥 **Video demostrativo:** [Ver video](#)  
-- 🧰 **Assets utilizados:** [Ver assets](#)
 
 
 
