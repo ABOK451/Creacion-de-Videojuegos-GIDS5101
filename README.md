@@ -33,9 +33,9 @@ Aquí se documentan los avances, proyectos, assets utilizados, capturas, y resul
 - Servir como portafolio digital de los proyectos desarrollados en clase.
 
 ---
-## 🧩 Prácticas
+## Prácticas
 
-### 🧠 Práctica 02  
+### Práctica 02  
 **Tema:** Construir un mundo con un Asset de tu preferencia y animarlo a través del vídeo Mixamo  
 **Fecha:** Viernes 03 de Octubre del 2025  
 **Descripción:**  
