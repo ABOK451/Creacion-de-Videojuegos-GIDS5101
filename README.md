@@ -2,9 +2,9 @@
 
 **Autor:** Alan Omar Venegas Cadena  
 **Grupo:** GIDS5101  
-**Institución:** [Nombre de tu universidad o facultad si deseas agregarlo]  
+**Institución:** UTNG  
 **Materia:** Creación de Videojuegos  
-**Periodo:** [Agrega el cuatrimestre o semestre si aplica]
+**Periodo:** Decimo
 
 ---
 
@@ -40,7 +40,7 @@ Aquí se documentan los avances, proyectos, assets utilizados, capturas, y resul
 
 ### 🧠 Práctica 01  
 **Tema:** [Agrega el nombre de la práctica aquí]  
-**Fecha:** [Agregar la fecha correspondiente]  
+**Fecha:** Viernes 03 de Octubre del 2025 
 **Descripción:**  
 Breve explicación de lo que se realizó en la práctica.
 
