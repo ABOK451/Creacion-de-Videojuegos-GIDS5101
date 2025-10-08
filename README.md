@@ -14,11 +14,8 @@
 2. [Objetivo del Repositorio](#objetivo-del-repositorio)
 3. [Estructura del Repositorio](#estructura-del-repositorio)
 4. [Prácticas](#prácticas)
-   - [Práctica 01](#práctica-01)
    - [Práctica 02](#práctica-02)
 5. [Tutoriales y Recursos](#tutoriales-y-recursos)
-6. [Evidencias Multimedia](#evidencias-multimedia)
-7. [Créditos](#créditos)
 
 ---
 
