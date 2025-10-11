@@ -49,5 +49,21 @@ Se ajustaron texturas, materiales y luces para lograr una ambientación coherent
 - 🧰 **Assets utilizados:** [Ver assets](./Practicas/Practica02/assets/practica02.unitypackage) 
 - 🎥 **Video demostrativo:** [Ver video](#)  
 
+---
+## Tutoriales
+
+### Tutorial 01  
+**Tema:**  
+**Fecha:** Viernes 10 de Octubre del 2025  
+**Descripción:**  
+ 
+
+
+**Evidencias:**  
+- 📄 **PDF de evidencia:** <a href="https://raw.githubusercontent.com/ABOK451/Creacion-de-Videojuegos-GIDS5101/main/Practicas/Practica02/Practica02.pdf" download>Descargar documento</a>
+- 🧰 **Assets utilizados:** [Ver assets](./Practicas/Practica02/assets/practica02.unitypackage) 
+- 🎥 **Video demostrativo:** [Ver video](#)  
+
+
 
 
