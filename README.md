@@ -14,11 +14,8 @@
 2. [Objetivo del Repositorio](#objetivo-del-repositorio)
 3. [Estructura del Repositorio](#estructura-del-repositorio)
 4. [Prácticas](#prácticas)
-   - [Práctica 01](#práctica-01)
    - [Práctica 02](#práctica-02)
 5. [Tutoriales y Recursos](#tutoriales-y-recursos)
-6. [Evidencias Multimedia](#evidencias-multimedia)
-7. [Créditos](#créditos)
 
 ---
 
@@ -36,17 +33,20 @@ Aquí se documentan los avances, proyectos, assets utilizados, capturas, y resul
 - Servir como portafolio digital de los proyectos desarrollados en clase.
 
 ---
-## 🧩 Prácticas
+## Prácticas
 
-### 🧠 Práctica 01  
-**Tema:** [Agrega el nombre de la práctica aquí]  
-**Fecha:** Viernes 03 de Octubre del 2025 
+### Práctica 02  
+**Tema:** Construir un mundo con un Asset de tu preferencia y animarlo a través del vídeo Mixamo  
+**Fecha:** Viernes 03 de Octubre del 2025  
 **Descripción:**  
-Breve explicación de lo que se realizó en la práctica.
+En esta práctica se creó un entorno tridimensional utilizando un asset seleccionado desde la Asset Store de Unity.  
+Posteriormente, se aplicaron animaciones obtenidas desde **Mixamo**, integrándolas al personaje principal para darle movimiento y realismo dentro del entorno virtual.  
+Se ajustaron texturas, materiales y luces para lograr una ambientación coherente con la temática del proyecto.
+
 
 **Evidencias:**  
-- 📄 **PDF de evidencia:** [Ver documento](./Practicas/Practica02/Practica02.pdf)  
-- 🧰 **Assets utilizados:** [Ver assets](./Practicas/Practica02/assets/practica 02.unitypackage) 
+- 📄 **PDF de evidencia:** <a href="https://raw.githubusercontent.com/ABOK451/Creacion-de-Videojuegos-GIDS5101/main/Practicas/Practica02/Practica02.pdf" download>Descargar documento</a>
+- 🧰 **Assets utilizados:** [Ver assets](./Practicas/Practica02/assets/practica02.unitypackage) 
 - 🎥 **Video demostrativo:** [Ver video](#)  
 
 
