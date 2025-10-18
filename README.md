@@ -87,7 +87,7 @@ Se ajustaron texturas, materiales y luces para lograr una ambientación coherent
 **Evidencias:**  
 - 📄 **PDF de evidencia:** <a href="https://raw.githubusercontent.com/ABOK451/Creacion-de-Videojuegos-GIDS5101/main/Tutoriales/Tutorial02/Tutorial02.pdf" download>Descargar documento</a>
 - 🧰 **Assets utilizados:** [Ver assets](./Tutoriales/Tutorial02/assets/tutorial02.unitypackage) 
-- 🎥 **Video demostrativo:** <a href="https://drive.google.com/file/d/18TghS_zDdAi2RSTohGPwlG7Dyb-AltUX/view?usp=drive_link" target="_blank">Ver video</a>
+- 🎥 **Video demostrativo:** <a href="https://drive.google.com/file/d/13X6iow5lmI4k0s2hCRCrksWoOtoayFmx/view?usp=sharing" target="_blank">Ver video</a>
 
 
 
