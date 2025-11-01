@@ -100,6 +100,17 @@ Se ajustaron texturas, materiales y luces para lograr una ambientación coherent
 - 🧰 **Assets utilizados:** [Ver assets](./Tutoriales/Tutorial03/assets/tutorial03.unitypackage) 
 - 🎥 **Video demostrativo:** <a href="https://drive.google.com/file/d/1V1rY091KgyoiIZtqsmLO2WlSxXI6T72h/view?usp=sharing" target="_blank">Ver video</a>
 
+### Tutorial 05  
+**Tema:**  
+**Fecha:** Viernes 31 de Octubre del 2025  
+**Descripción:**  
+ 
+
+**Evidencias:**  
+- 📄 **PDF de evidencia:** <a href="https://raw.githubusercontent.com/ABOK451/Creacion-de-Videojuegos-GIDS5101/main/Tutoriales/Tutorial05/Tutorial05.pdf" download>Descargar documento</a>
+- 🧰 **Assets utilizados:** [Ver assets](./Tutoriales/Tutorial05/assets/tutorial05.unitypackage) 
+- 🎥 **Video demostrativo:** <a href="https://drive.google.com/file/d/1hxVLw1R-dRs9Qklq-Ra-vEmw3i85YT3e/view?usp=sharing" target="_blank">Ver video</a>
+
 
 
 
